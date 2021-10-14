@@ -9,7 +9,10 @@
     <option name="format" value="PLAIN" />
     <option name="myDocStringFormat" value="Plain" />
   </component>
+<<<<<<< HEAD
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Nosetests" />
   </component>
+=======
+>>>>>>> 7212f24642c6836827b0d24b9e1787e70355555f
 </module>
